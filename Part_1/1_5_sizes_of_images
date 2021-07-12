@@ -1,0 +1,12 @@
+Image sizes:
+REPOSITORY                          TAG       SIZE
+devopsdockeruh/simple-web-service   ubuntu    83MB
+devopsdockeruh/simple-web-service   alpine    15.7MB
+
+Commands to find secret message:
+docker run -d -it devopsdockeruh/simple-web-service:alpine
+docker exec -it nostalgic_visvesvaraya sh
+tail -f ./text.log
+
+The secret message was once again:
+'You can find the source code here: https://github.com/docker-hy'
