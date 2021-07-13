@@ -20,7 +20,7 @@
 
 - [x] [1.8 Image for script](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_8_image_for_script)
 
-- [ ] [1.9 Volumes]()
+- [x] [1.9 Volumes](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_9_volumes)
 
 - [ ] [1.10 Ports open]()
 
