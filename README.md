@@ -24,7 +24,7 @@
 
 - [x] [1.10 Ports open](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_10_ports_open.txt)
 
-- [ ] [1.11 Spring]()
+- [x] [1.11 Spring](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_11_spring)
 
 - [ ] [1.12 Hello, frontend!]()
 
