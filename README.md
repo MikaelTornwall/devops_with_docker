@@ -12,13 +12,13 @@
 
 - [x] [1.4 Missing dependencies](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_4_missing_dependencies.txt)
 
-- [ ] [1.5 Sizes of images](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_5_sizes_of_images)
+- [x] [1.5 Sizes of images](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_5_sizes_of_images)
 
-- [ ] [1.6 Hello Docker Hub](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_6_hello_docker_hub)
+- [x] [1.6 Hello Docker Hub](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_6_hello_docker_hub)
 
-- [ ] [1.7 Two line Dockerfile]()
+- [x] [1.7 Two line Dockerfile](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_7_two_line_dockerfile)
 
-- [ ] [1.8 Image for script]()
+- [x] [1.8 Image for script](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_8_image_for_script)
 
 - [ ] [1.9 Volumes]()
 
