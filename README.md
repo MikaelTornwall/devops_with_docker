@@ -26,9 +26,9 @@
 
 - [x] [1.11 Spring](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_11_spring)
 
-- [x] [1.12 Hello, frontend!]()
+- [x] [1.12 Hello, frontend!](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_12_hello_frontend)
 
-- [ ] [1.13 Hello, backend!]()
+- [ ] [1.13 Hello, backend!](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_13_hello_backend)
 
 - [ ] [1.14 Environment]()
 
