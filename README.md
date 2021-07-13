@@ -12,9 +12,9 @@
 
 - [x] [1.4 Missing dependencies](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_4_missing_dependencies.txt)
 
-- [x] [1.5 Sizes of images](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_5_sizes_of_images)
+- [x] [1.5 Sizes of images](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_5_sizes_of_images.txt)
 
-- [x] [1.6 Hello Docker Hub](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_6_hello_docker_hub)
+- [x] [1.6 Hello Docker Hub](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_6_hello_docker_hub.txt)
 
 - [x] [1.7 Two line Dockerfile](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_7_two_line_dockerfile)
 
@@ -22,7 +22,7 @@
 
 - [x] [1.9 Volumes](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_9_volumes)
 
-- [ ] [1.10 Ports open]()
+- [x] [1.10 Ports open](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_10_ports_open.txt)
 
 - [ ] [1.11 Spring]()
 
