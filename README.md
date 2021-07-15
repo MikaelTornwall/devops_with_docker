@@ -32,6 +32,6 @@
 
 - [x] [1.14 Environment](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_14_environment)
 
-- [ ] [1.15 Homework]()
+- [x] [1.15 Homework](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_15_homework)
 
 - [ ] [1.16 Heroku]()
