@@ -1,1 +1,1 @@
-[https://docker-heroku-example-2021.herokuapp.com/]
+https://docker-heroku-example-2021.herokuapp.com/
