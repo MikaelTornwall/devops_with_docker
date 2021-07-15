@@ -2,7 +2,7 @@
 
 ## Answers
 
-### [Part 1](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1)
+### [Part 1](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1) - Finished
 
 - [x] [1.1 Getting started](https://github.com/MikaelTornwall/devops_with_docker/blob/main/Part_1/1_1_getting_started.txt)
 
@@ -35,3 +35,27 @@
 - [x] [1.15 Homework](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_15_homework)
 
 - [x] [1.16 Heroku](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_16_heroku)
+
+### [Part 2]()
+
+- [x] [2.1](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_1)
+
+- [ ] [2.2]()
+
+- [ ] [2.3]()
+
+- [ ] [2.4]()
+
+- [ ] [2.5]()
+
+- [ ] [2.6]()
+
+- [ ] [2.7]()
+
+- [ ] [2.8]()
+
+- [ ] [2.9]()
+
+- [ ] [2.10]()
+
+- [ ] [2.11]()
