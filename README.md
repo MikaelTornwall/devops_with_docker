@@ -1,5 +1,9 @@
 # DevOps with Docker by University of Helsinki
 
+## Course description
+
+[DevOps with Docker 2021](https://devopswithdocker.com/)
+
 ## Answers
 
 ### [Part 1](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1) - Finished
