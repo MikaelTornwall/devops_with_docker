@@ -34,4 +34,4 @@
 
 - [x] [1.15 Homework](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_15_homework)
 
-- [ ] [1.16 Heroku](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_16_heroku)
+- [x] [1.16 Heroku](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_16_heroku)
