@@ -54,7 +54,7 @@
 
 - [x] [2.6](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_6)
 
-- [ ] [2.7]()
+- [x] [2.7](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_7)
 
 - [ ] [2.8]()
 
