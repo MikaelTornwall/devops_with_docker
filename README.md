@@ -60,6 +60,6 @@
 
 - [x] [2.9](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_9)
 
-- [ ] [2.10]()
+- [x] [2.10](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_10)
 
 - [ ] [2.11]()
