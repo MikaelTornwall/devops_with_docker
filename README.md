@@ -40,7 +40,7 @@
 
 - [x] [1.16 Heroku](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_16_heroku)
 
-### [Part 2](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2) - Finished
+### [Part 2](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2) - 
 
 - [x] [2.1](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_1)
 
@@ -62,4 +62,4 @@
 
 - [x] [2.10](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_10)
 
-- [x] [2.11](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_11/simple-node-app)
+- [ ] [2.11](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_11/simple-node-app)
