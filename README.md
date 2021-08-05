@@ -40,7 +40,7 @@
 
 - [x] [1.16 Heroku](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_1/1_16_heroku)
 
-### [Part 2](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2)
+### [Part 2](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2) - Finished
 
 - [x] [2.1](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_1)
 
