@@ -63,3 +63,23 @@
 - [x] [2.10](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_10)
 
 - [x] [2.11](https://github.com/MikaelTornwall/devops_with_docker/tree/main/Part_2/2_11/simple-node-app)
+
+### [Part 3]()
+
+- [ ] [3.1 A deployment pipeline to heroku]()
+
+- [ ] [3.2 Building images inside of a container]()
+
+- [ ] [3.3]()
+
+- [ ] [3.4]()
+
+- [ ] [3.5]()
+
+- [ ] [3.6: Multi-stage frontend]()
+
+- [ ] [3.7 Multi-stage backend]()
+
+- [ ] [3.8]()
+
+- [ ] [3.9 Kubernetes]()
