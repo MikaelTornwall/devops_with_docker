@@ -4,10 +4,8 @@ Simple Node.js API skeleton with MongoDB database.
 
 ## How to use
 
-You can build and run the Docker container with the following two commands:
+You can build and run the Docker container with the following command:
 
-`docker build . -t simple-node-app`
+`docker-compose up`
 
-`docker run -p 3001:3001 simple-node-app`
-
-Notice, however, that to you must assign your own database url in a .env file for the API to work.
+_Notice: you must assign your own database url in a .env file for the API to work._
