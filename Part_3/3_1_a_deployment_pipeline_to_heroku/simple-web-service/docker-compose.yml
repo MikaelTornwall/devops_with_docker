@@ -1,0 +1,15 @@
+version: '3.5'
+
+services:
+    simple-web-service:
+        image: devopsdockeruh/simple-web-service
+        command: server
+        ports:
+            - 8080:8080
+    watchtower:
+        image: containrrr/watchtower
+        environment: 
+            - WATCHTOWER_POLL_INTERVAL=60 # Poll every 60 seconds
+        volumes:
+            - /var/run/docker.sock:/var/run/docker.sock
+        container_name: watchtower
